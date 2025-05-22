@@ -1,5 +1,5 @@
-# 💫 Qurti.txt:
-🔮 Developer | Cyber Sec Enthusiast | Red & Blue Team Learner 🔮<br>🔧 Minecraft Mod & Plugin Developer<br>💜 Kotlin Lover <br>👀 How to reach me? DM me on Discord: quurtti<br>🦈 Currently: Diving deep into Red Teaming, Pentesting, and CTFs<br>🎯Planning (if not already) to learn more about:<br>    • Malware Analysis & Research<br>    • Tool & Software Development<br>    • Red Team Planning & Strategy<br><br>Always building & breaking stuff, always curious 🚀
+# 🔮 Developer | Cyber Sec Enthusiast | Red & Blue Team Learner 🔮
+<br>🔧 Minecraft Mod & Plugin Developer<br>💜 Kotlin Lover <br>👀 How to reach me? DM me on Discord: quurtti<br>🦈 Currently: Diving deep into Red Teaming, Pentesting, and CTFs<br>🎯Planning (if not already) to learn more about:<br>    • Malware Analysis & Research<br>    • Tool & Software Development<br>    • Red Team Planning & Strategy<br><br>Always building & breaking stuff, always curious 🚀
 
 
 ## 🌐 Socials:
