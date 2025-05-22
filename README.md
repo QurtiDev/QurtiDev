@@ -1,11 +1,10 @@
 # 🔮 Developer | Cyber Sec Enthusiast | Red & Blue Team Learner 🔮
 
+
+<br>🔧 Minecraft Mod & Plugin Developer<br>💜 Kotlin Lover <br>👀 How to reach me? DM me on Discord: quurtti<br>🦈 Currently: Diving deep into Red Teaming, Pentesting, and CTFs<br>🎯Planning (if not already) to learn more about:<br>    • Malware Analysis & Research<br>    • Tool & Software Development<br>    • Red Team Planning & Strategy<br><br>Always building & breaking stuff, always curious 🚀
 <p align="center">
   <img src="https://github.com/QurtiDev/QurtiDev/blob/main/purplecar.gif" alt="Logo" width="600"/>
 </p>
-
-<br>🔧 Minecraft Mod & Plugin Developer<br>💜 Kotlin Lover <br>👀 How to reach me? DM me on Discord: quurtti<br>🦈 Currently: Diving deep into Red Teaming, Pentesting, and CTFs<br>🎯Planning (if not already) to learn more about:<br>    • Malware Analysis & Research<br>    • Tool & Software Development<br>    • Red Team Planning & Strategy<br><br>Always building & breaking stuff, always curious 🚀
-
 
 ## 🌐 Socials:
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@purpleware) 
