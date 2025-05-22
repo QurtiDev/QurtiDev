@@ -1,4 +1,7 @@
 # 🔮 Developer | Cyber Sec Enthusiast | Red & Blue Team Learner 🔮
+
+<img src="https://github.com/QurtiDev/QurtiDev/blob/main/purplecar.gif" alt="Logo" width="900"/>
+
 <br>🔧 Minecraft Mod & Plugin Developer<br>💜 Kotlin Lover <br>👀 How to reach me? DM me on Discord: quurtti<br>🦈 Currently: Diving deep into Red Teaming, Pentesting, and CTFs<br>🎯Planning (if not already) to learn more about:<br>    • Malware Analysis & Research<br>    • Tool & Software Development<br>    • Red Team Planning & Strategy<br><br>Always building & breaking stuff, always curious 🚀
 
 
