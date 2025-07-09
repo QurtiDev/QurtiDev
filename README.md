@@ -48,5 +48,13 @@
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/AxeMetsa) 
 
+<p align="center">
+  <img 
+    src="https://github.com/QurtiDev/QurtiDev/blob/main/evilgo.png" 
+    alt="Logo" 
+    style="max-width: 100%; width: 400px; height: auto; border-radius: 12px;" 
+  />
+</p>
+
   
 <!-- Proudly created with the help of GPRM ( https://gprm.itsvg.in ), Thank you for this beautiful tool :)-->
