@@ -30,7 +30,7 @@
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Kali Linux](https://img.shields.io/badge/kali%20linux-%23121011.svg?style=for-the-badge&logo=kalilinux&logoColor=white)
 [![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)](#)
-
+[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=QurtiDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=QurtiDev&theme=dark&hide_border=false)<br/>
