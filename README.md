@@ -12,7 +12,7 @@
 <br>
 <br>Always building & breaking stuff, always curious 🚀
 <p align="center">
-  <img src="https://github.com/QurtiDev/QurtiDev/blob/main/purplecar.gif" alt="Logo" width="400"/>
+  <img src="https://github.com/QurtiDev/QurtiDev/blob/main/assets/purplecar.gif" alt="Logo" width="400"/>
 </p>
 
 ## 🌐 Socials:
@@ -47,7 +47,10 @@
 ### Virtualization & Operating Systems  
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white)  
 ![VMware](https://img.shields.io/badge/VMware-0078D4.svg?style=for-the-badge&logo=vmware&logoColor=white)  
-![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)
+<p align="left">
+  <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white" />
+</p>
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)  
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  
@@ -78,7 +81,8 @@
 ### Security Tools I Love 
 ![Metasploit](https://img.shields.io/badge/metasploit-%23121011.svg?style=for-the-badge&logo=metasploit&logoColor=white)  
 ![BurpSuite](https://img.shields.io/badge/BurpSuite-%23FF6633.svg?style=for-the-badge&logo=burpsuite&logoColor=white)  
-![Caido]()
+
+
 ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-%23000000.svg?style=for-the-badge&logo=owasp&logoColor=white)  
 ![Wireshark](https://img.shields.io/badge/Wireshark-%23167C80.svg?style=for-the-badge&logo=wireshark&logoColor=white)  
 
@@ -104,7 +108,7 @@
 
 <p align="center">
   <img 
-    src="https://github.com/QurtiDev/QurtiDev/blob/main/evilgo.png" 
+    src="https://github.com/QurtiDev/QurtiDev/blob/main/assets/evilgo.png" 
     alt="Logo" 
     style="max-width: 100%; width: 400px; height: auto; border-radius: 12px;" 
   />
