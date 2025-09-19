@@ -44,7 +44,7 @@
 
 ---
 
-### Virtualization & Operating Systems  
+### Virtualization & OS 
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white)  
 ![VMware](https://img.shields.io/badge/VMware-0078D4.svg?style=for-the-badge&logo=vmware&logoColor=white)  
 <p align="left">
@@ -61,7 +61,7 @@
 
 ---
 
-### Development Tools & IDEs  
+### Dev Tools & IDEs  
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)  
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)  
 [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)](#)  
@@ -70,7 +70,7 @@
 
 ---
 
-### Databases & Cloud  
+### DBs & Cloud  
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
@@ -78,14 +78,12 @@
 
 ---
 
-### Security Tools I Love 
+### Security tools I love 
 ![Metasploit](https://img.shields.io/badge/metasploit-%23121011.svg?style=for-the-badge&logo=metasploit&logoColor=white)  
 ![BurpSuite](https://img.shields.io/badge/BurpSuite-%23FF6633.svg?style=for-the-badge&logo=burpsuite&logoColor=white)  
-
-
 ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-%23000000.svg?style=for-the-badge&logo=owasp&logoColor=white)  
 ![Wireshark](https://img.shields.io/badge/Wireshark-%23167C80.svg?style=for-the-badge&logo=wireshark&logoColor=white)  
-
+<img src="https://github.com/QurtiDev/QurtiDev/blob/main/assets/caido.png" alt="Caido" height="28">
 
 
 
