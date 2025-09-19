@@ -34,16 +34,15 @@
 ### Security Tools Arsenal
 ![Metasploit](https://img.shields.io/badge/metasploit-%23121011.svg?style=for-the-badge&logo=metasploit&logoColor=white) ![BurpSuite](https://img.shields.io/badge/BurpSuite-%23FF6633.svg?style=for-the-badge&logo=burpsuite&logoColor=white) ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-%23000000.svg?style=for-the-badge&logo=owasp&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-%23167C80.svg?style=for-the-badge&logo=wireshark&logoColor=white) <img src="https://github.com/QurtiDev/QurtiDev/blob/main/assets/caido.png" alt="Caido" height="28">
 
+---
 ### Virtualization & OS  
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white) ![VMware](https://img.shields.io/badge/VMware-0078D4.svg?style=for-the-badge&logo=vmware&logoColor=white) <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white" /> ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![Parrot Security](https://img.shields.io/badge/Parrot%20Security-%2315E0ED.svg?style=for-the-badge&logo=parrotsecurity&logoColor=white) ![Tails](https://img.shields.io/badge/Tails-%2356347C.svg?style=for-the-badge&logo=tails&logoColor=white) ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 ---
-
 ### Dev Tools & IDEs  
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white) ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white) ![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=eclipse&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
 ---
-
 ### DBs & Cloud  
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 
