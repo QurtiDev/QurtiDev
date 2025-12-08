@@ -3,13 +3,19 @@
 
 <br>🔧 Minecraft Mod & Plugin Developer
 <br>💜 Kotlin Lover
-<br>👀 How to reach me? DM me on Discord: `quurtti`
+<br>👀 How to reach me?
+<br>- DM me on Discord: `quurtti`
+<br>- Or mail me: QurtiDev@proton.me
+
 <br>🦈 Currently: Diving deep into Red Teaming, Pentesting, and CTFs
 <br>🎯Learning about:
 <br>    • Malware Analysis & Research
 <br>    • Tool & Software Development
 <br>    • Red Team Planning & Strategy
-<br>
+<br>    • Windows AD & Azure Attacks
+<br>    • Linux Exploitation 
+<br>    • Web Exploitation Techniques
+ 
 <br>Always building & breaking stuff, always curious 🚀
 <p align="center">
   <img src="https://github.com/QurtiDev/QurtiDev/blob/main/assets/purplecar.gif" alt="Logo" width="400"/>
