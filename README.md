@@ -8,7 +8,7 @@
 <br>- Or mail me: QurtiDev@proton.me
 
 <br>🦈 Currently: Diving deep into Red Teaming, Pentesting, and CTFs
-<br>🎯Learning about:
+<br>🎯Mainly focusing on:
 <br>• Malware Analysis & Reverse Engineering
 <br>• Custom Tool & Software Development
 <br>• Red Team Planning & Strategy
