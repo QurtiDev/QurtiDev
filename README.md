@@ -9,12 +9,12 @@
 
 <br>🦈 Currently: Diving deep into Red Teaming, Pentesting, and CTFs
 <br>🎯Learning about:
-<br>    • Malware Analysis & Research
-<br>    • Tool & Software Development
-<br>    • Red Team Planning & Strategy
-<br>    • Windows AD & Azure Attacks
-<br>    • Linux Exploitation 
-<br>    • Web Exploitation Techniques
+<br>• Malware Analysis & Reverse Engineering
+<br>• Custom Tool & Software Development
+<br>• Red Team Planning & Strategy
+<br>• Windows AD & Azure Attacks
+<br>• Linux Exploitation
+<br>• Web Exploitation Techniques
  
 <br>Always building & breaking stuff, always curious 🚀
 <p align="center">
