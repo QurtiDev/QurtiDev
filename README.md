@@ -26,7 +26,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@Purplewarex) 
 
 
-#### 🔓 TryHackMe:
+#### 🔓 [TryHackMe](https://tryhackme.com/p/Purpleware):
 <p align="left">
   <img src="https://tryhackme-badges.s3.amazonaws.com/Purpleware.png" alt="TryHackMe Badge" width="300"/>
 </p>
