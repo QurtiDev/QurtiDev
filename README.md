@@ -75,7 +75,7 @@
 
 <h2 class="quote-title">Quote of Wisdom </h2>
 <h3 class="quote-body" data-quote="payload">
-The payload knows where it is at all times. It knows this because it knows
+"The payload knows where it is at all times. It knows this because it knows
 where it isn't. By subtracting where it is from where it isn't, or where it
 was - if it isn't there, it obtains a deviation, or error in source data.
 <br><br>
@@ -85,7 +85,7 @@ simply be a blob of shellcode blindly spraying ROP chains into kernel space
 hoping for the best.
 <br><br>
 The payload knows this because the beacon operator told it. The operator
-knows because he read the <a href="https://attack.mitre.org/">MITRE ATT&CK matrix</a>. Any deviation within acceptable bounds of EDR & AV evasion must be corrected before detonation.
+knows because he read the <a href="https://attack.mitre.org/">MITRE ATT&CK matrix</a>. Any deviation within acceptable bounds of EDR & AV evasion must be corrected before detonation."
 </h3>
                                                                                    
                                                                                                                             
