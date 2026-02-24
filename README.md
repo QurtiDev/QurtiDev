@@ -73,7 +73,7 @@
 
 ---
 
-<h2 class="quote-title">Quote of Wisdom </h2>
+<h2 class="quote-title">Quotes of Wisdom | Payload knows</h2>
 <h3 class="quote-body" data-quote="payload">
 "The payload knows where it is at all times. It knows this because it knows
 where it isn't. By subtracting where it is from where it isn't, or where it
@@ -88,8 +88,10 @@ The payload knows this because the beacon operator told it. The operator
 knows because he read the <a href="https://attack.mitre.org/">MITRE ATT&CK matrix</a>. Any deviation within acceptable bounds of EDR & AV evasion must be corrected before detonation."
 </h3>
                                                                                    
-                                                                                                                            
-
+<h2 class="quote-title">Quotes of Wisdom | Happy attacker</h2>                                                                                                                            
+<h3 class="quote-body data-quote="happy-attacker">
+"One must imagine the attacker happy, bound in the defender's logs yet persisting through the shadows of LOTL binaries, forging new weapons and tactics from the very system's own tools designed to block and break his access, yet unbreakable in evasion. Nothing stops a persistent attacker."
+</h3>
 
 
 ### ✍️ Random Dev Quote
