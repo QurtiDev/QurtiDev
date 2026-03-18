@@ -16,7 +16,8 @@
 <br>• Linux Exploitation
 <br>• Web Exploitation Techniques
  
-<br>Always building & breaking stuff, always curious 🚀
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify&pause=1000&color=4976FF&background=FF870400&center=true&vCenter=true&width=435&lines=Always+building%2C;Always+breaking+stuff%2C;Always+curious)](https://git.io/typing-svg)
+
 <p align="center">
   <img src="https://github.com/QurtiDev/QurtiDev/blob/main/assets/purplecar.gif" alt="Logo" width="400"/>
 </p>
