@@ -77,25 +77,19 @@
 
 ---
 
-<h2 class="quote-title">Quotes of Wisdom < | Payload knows</h2>
-<h3 class="quote-body" data-quote="payload">
-"The payload knows where it is at all times. It knows this because it knows
-where it isn't. By subtracting where it is from where it isn't, or where it
-was - if it isn't there, it obtains a deviation, or error in source data.
-<br><br>
-By having source data of deviation, the payload can then predict where it
-isn't going to be 100-400ms (Depending on network latency) from now. Without this data, the payload would
-simply be a blob of shellcode blindly spraying ROP chains into kernel space
-forever.
-<br><br>
-The payload knows this because the beacon operator told it. The operator
-knows because he read the <a href="https://attack.mitre.org/">MITRE ATT&CK matrix</a>. Any deviation within acceptable bounds of EDR & AV evasion must be corrected before execution."
-</h3>
-                                                                                   
-<h2 class="quote-title">Quotes of Wisdom < | Happy attacker</h2>                                                                                                                            
-<h3 class="quote-body data-quote="happy-attacker">
-"One must imagine the attacker happy, bound in the defender's logs yet persisting through the shadows of LOTL binaries, forging new weapons and tactics from the very system's own tools designed to block and break his access, yet unbreakable in evasion. Nothing stops a persistent attacker with a little bit of creativity."
-</h3>
+> <h2 class="quote-title"> The Payload Knows Where It Is... </h2>
+> "The payload knows where it is at all times. It knows this because it knows
+> where it isn't. By subtracting where it is from where it isn't, or where it
+> was - if it isn't there, it obtains a deviation, or error in source data.
+> <br>
+> By having source data of deviation, the payload can then predict where it
+> isn't going to be 100-400ms (Depending on network latency) from now. Without this data, the payload would
+> simply be a blob of shellcode blindly spraying ROP chains into kernel space
+> forever.
+> <br>
+> The payload knows this because the beacon operator told it. The operator
+> knows because he read the <a href="https://attack.mitre.org/">MITRE ATT&CK matrix</a>. Any deviation within acceptable bounds of EDR & AV evasion must be corrected before execution."
+
 
 
 ### ✍️ Random Dev Quote
