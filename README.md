@@ -5,7 +5,7 @@
 <br>💜 Kotlin Lover
 <br>👀 How to reach me?
 <br>- DM me on Discord: `qurti.dll`
-<br>- Or mail me: QurtiDev@proton.me
+<br>- Or mail me: QurtiDev [at] proton.me
 
 <br>🦈 Currently: Diving deep into Red Teaming, Pentesting, and CTFs
 <br>🎯Mainly focusing on:
