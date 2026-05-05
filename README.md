@@ -29,16 +29,34 @@
 
 #### 🔓 [TryHackMe](https://tryhackme.com/p/Purpleware):
 <p align="left">
+  <a href="https://tryhackme.com/p/Purpleware">
   <img src="https://tryhackme-badges.s3.amazonaws.com/Purpleware.png" alt="TryHackMe Badge" width="300"/>
 </p>
 
+<br><br>
+
+#### 🛠️ [Boot.Dev](https://www.boot.dev/u/qurtibreaks):
+<p align="left">
+<a href="https://www.boot.dev/u/qurtibreaks">
+  <img
+src="https://camo.githubusercontent.com/0c4ca8deaede87fd304d3b32471138b2813c8698d64659e13e30ee7e8636cab9/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f717661756c742d7765626170702d64796e616d69632d6173736574732f636f757273655f6173736574732f77766e7439796c2d383030783337302e706e67"
+    alt="BootDev Logo"
+    width="300"
+  />
+</a>
+</p>
+
+
+<br><br>
 
 [Click for a free cookie!](https://qurtidev.github.io/QurtiDev/alert.html)
 
-
+<br><br>
 # 💻 My Tech Interests
+
 ### Programming Languages  
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) [![Nim](https://img.shields.io/badge/Nim-%23FFE953.svg?&logo=nim&logoColor=white)](#)
+[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
 
 ---
 ### Security Tools Arsenal
