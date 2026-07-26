@@ -1,4 +1,4 @@
-# 🔮 Developer | Cyber Sec Enthusiast | Red & Blue Team Learner 🔮
+#  Developer | Cybersecurity Enthusiast | Red & Blue Team Learner 
 
 
 <br>🔧 Minecraft Mod & Plugin Developer
