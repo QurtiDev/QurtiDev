@@ -113,11 +113,6 @@ src="https://camo.githubusercontent.com/0c4ca8deaede87fd304d3b32471138b2813c8698
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=QurtiDev&icon=6&color=10)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/AxeMetsa) 
 
 <p align="center">
   <img 
